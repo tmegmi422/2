@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+  <link rel="icon" a href="../favicon.ico">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Strawberry Mania</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/reset.css">
+<link rel="stylesheet" href="../css/hover.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<link rel="stylesheet" href="../css/style.css">
+  
+<script src="https://kit.fontawesome.com/a25cb48917.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script> 
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="class" type="text" value="" -->
+</head>
+
+<body class="@@(_document['class'])@@">
+<div class="page">
+  <header>
+     <nav>
+    
+  <ul>
+      <li class="header-logo"><a href="../index.html"><img src="../images/header.png"></a></li>
+      <li class="hvr-underline-from-center"><a href="../index.html">TOP</a></li>
+      <li class="hvr-underline-from-center"><a href="../menu.html">MENU</a></li>
+      <li class="hvr-underline-from-center"><a href="../news.html">NEWS</a></li>
+      <li class="hvr-underline-from-center"><a href="../contact.html">CONTACT</a></li>
+      <li class="hvr-underline-from-center"><a href="../access.html">ACCESS</a></li>
+      </ul>
+    </nav>
+      
+</header>
+  <!-- TemplateBeginEditable name="メイン領域" -->
+  <main>
+    <h1>
+      <div class="main-image"><img src="../images/main-home1.png"></div>
+    </h1>
+    <article>
+      <h2><img src="../images/StrawberryMania-logo2.png"></h2>
+      <p> いちご大福で有名な築地の名店「築地そらつき」がプロデュース！<br>
+        原宿やスカイツリーにも展開するいちごスイーツ専門店です。<br>
+        西日本を中心に全国からその時期一番美味しいいちごをバイヤーが厳選。<br>
+        数種の生クリームを使い分けるなど、いかにいちごを<br>
+        引き立てるかを重視し、本気のスイーツをご提供しています。 </p>
+      <div class="shop-image"><img src="../images/shop-img.png"></div>
+    </article>
+    <div class="sns-shared">
+      <p class="minnnano-toukou">みんなの投稿</p>
+      <p class="hushtag">#StrawberryMania</p>
+      <div class="top-share-img"><img src="../images/share1.png"></div>
+      <p class="see-more"><a href="#">もっと見る＋</a></p>
+    </div>
+    <div class="lets-share">
+      <h2>＼LETS SHARE!／</h2>
+      <ul>
+        <li class="twiiter hvr-grow"><a href="#" class=""><i class="fab fa-twitter"></i></a></li>
+        <li class="line hvr-grow"><a href="#"><i class="fas fa-comment"></i></a></li>
+        <li class="instagram hvr-grow"><a href="#"><i class="fab fa-instagram"></i></a></li>
+      </ul>
+    </div>
+  </main>
+  <!-- TemplateEndEditable -->
+  <footer>
+      <ul>
+        <li><img src="../images/footer.png"></li>
+    <li class="address"><p><small>&copy;strawberrymania , All Right Reserved.</small></p></li>
+    </ul>
+  </footer>
+    </div>
+  
+</body>
+</html>
+  
